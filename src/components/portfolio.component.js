@@ -36,13 +36,19 @@ export default class PortFolio extends Component {
           <Emoji text="Memories: MERN Stack application, a facebook clone, Styled in Bootstrap" />
         </div>
         <h3>contact</h3>
-        <Emoji text="Email :email: o@orhys.com" />
+        <Emoji text="Email :email: " />
+        <a href="mailto:o@orhys.com">o@orhys.com</a>
         <br />
-        <Emoji text="Resume :link: orhys-brown-resume.docx" />
+        <Emoji text="Resume :link: " />
+        <a href="https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:dfcdf35c-1c7f-48d0-8429-ea32465678cc">
+          orhys-brown-resume.pdf
+        </a>
         <br />
-        <Emoji text="Linked:up: linkedin.com/in/orhys " />
+        <Emoji text="Linked:up: " />
+        <a href="linkedin.com/in/orhys">linkedin.com/in/orhys</a>
         <br />
-        <Emoji text="GitHub: github.com/orhys" />
+        <Emoji text="GitHub: " />
+        <a href="github.com/orhys">github.com/orhys</a>
       </Container>
     );
   }

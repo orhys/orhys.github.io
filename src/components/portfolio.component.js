@@ -45,10 +45,12 @@ export default class PortFolio extends Component {
         </a>
         <br />
         <Emoji text="Linked:up: " />
-        <a href="www.linkedin.com/in/orhys">linkedin.com/in/orhys</a>
+        <a href="https://linkedin.com/in/orhys">linkedin.com/in/orhys</a>
         <br />
         <Emoji text="GitHub: " />
-        <a href="www.github.com/orhys">github.com/orhys</a>
+        <a href="https://github.com/orhys" target="_blank">
+          github.com/orhys
+        </a>
       </Container>
     );
   }

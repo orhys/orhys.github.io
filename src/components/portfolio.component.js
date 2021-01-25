@@ -40,7 +40,7 @@ export default class PortFolio extends Component {
         <a href="mailto:o@orhys.com">o@orhys.com</a>
         <br />
         <Emoji text="Resume :link: " />
-        <a href="https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:dfcdf35c-1c7f-48d0-8429-ea32465678cc">
+        <a href="http://www.cubicul.com/resume/obrown-resume.pdf">
           orhys-brown-resume.pdf
         </a>
         <br />

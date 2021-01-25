@@ -4,21 +4,21 @@ No media query for `xs` since this is the default in Bootstrap */
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
   body {
-    background-color: blue;
+    background-color: white;
   }
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
   body {
-    background-color: gray;
+    background-color: white;
   }
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
   body {
-    background-color: red;
+    background-color: white;
   }
 }
 

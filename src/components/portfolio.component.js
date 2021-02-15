@@ -19,7 +19,7 @@ export default class PortFolio extends Component {
           <h3>skills</h3>
           <Emoji
             text="I don't know it all :person_shrugging::skin-tone-5: but with aspiration and determination, there is nothing I cannot accomplish.
-            My frontend and backend knowledge includes HTML, CSS, JavaScript, and Node.js. I use a variety of Frontend Frameworks,
+            My frontend and backend knowledge include HTML, CSS, JavaScript, and Node.js. I use a variety of Frontend Frameworks,
             Angular JQUERY, REACT, and Vue. On the backend, I use Frameworks, ASP.NET, Babel and Express, GraphQL, and Webpack.
             To complete a stack I use MySQL, MongoDB, and Firebase databases."
           />
@@ -31,9 +31,9 @@ export default class PortFolio extends Component {
           <br />
           <Emoji text="ExcerTrack: MERN Stack application, a daily exercise log book. Styled in Bootstrap." />
           <br />
-          <Emoji text="PARKSpot: FERN Stack appliation, used to reserve parking spots. Styled in Bootstrap" />
+          <Emoji text="PARKSpot: FERN Stack appliation, used to reserve parking spots. Styled in Bootstrap." />
           <br />
-          <Emoji text="Memories: MERN Stack application, a facebook clone, Styled in Bootstrap" />
+          <Emoji text="Memories: MERN Stack application, a facebook clone. Styled in Bootstrap." />
         </div>
         <h3>contact</h3>
         <Emoji text="Email :email: " />

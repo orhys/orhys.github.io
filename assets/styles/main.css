@@ -1,0 +1,84 @@
+html,
+body {
+  margin: 0 auto;
+  background-color: black;
+  color: white;
+  font-family: Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hello__text {
+  font-size: 10rem;
+  font-weight: bold;
+  line-height: 10rem;
+  padding-top: 300px;
+  opacity: 20%;
+}
+
+.hello__intro {
+  font-size: 1.3rem;
+  padding-top: 60px;
+}
+
+hr {
+  width: 80px;
+}
+
+a.nav-link {
+  font-size: 1.3rem;
+  color: white;
+}
+
+a.nav-link:hover,
+a.nav-link:active {
+  color: #1f1f1f;
+}
+
+.projects {
+  margin-top: 60px;
+}
+
+.projects__title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 0.6rem;
+}
+
+.projects__subtitle {
+  font-size: 1.2rem;
+  font-style: oblique;
+  opacity: 20%;
+}
+
+.projects__synopsis {
+  font-size: 1.2rem;
+}
+
+a.projects__title {
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  text-decoration: none;
+  line-height: 2rem;
+}
+.contact {
+  margin-top: 60px;
+}
+
+.contact__title {
+  font-size: 3rem;
+  padding-bottom: 2rem;
+}
+
+.form-label {
+  font-size: 1.3rem;
+}
+
+.form-control {
+  /* opacity: 10%; */
+}
+
+.mb-3 {
+  padding-top: 2em;
+}

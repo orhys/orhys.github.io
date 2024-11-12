@@ -3,9 +3,13 @@
 @tailwind utilities;
 
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Nunito Sans", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100,
+  "YTLC" 500;
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
@@ -70,7 +74,7 @@ button:focus-visible {
 
 @media (prefers-color-scheme: light) {
   :root {
-    color: #213547;
+    color: rgb(75,85,99);
     background-color: #ffffff;
   }
   a:hover {
